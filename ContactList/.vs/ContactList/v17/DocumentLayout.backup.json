@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\M\u00E1y t\u00EDnh\\.vs\\baitap2603\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|C:\\Users\\USER\\OneDrive\\M\u00E1y t\u00EDnh\\.vs\\baitap2603\\ContactList\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|c:\\users\\user\\onedrive\\m\u00E1y t\u00EDnh\\.vs\\baitap2603\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|c:\\users\\user\\onedrive\\m\u00E1y t\u00EDnh\\.vs\\baitap2603\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|C:\\Users\\USER\\OneDrive\\M\u00E1y t\u00EDnh\\.vs\\baitap2603\\ContactList\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{731CF195-A5CF-408F-B5B6-4B6B1F3A7F93}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ContactList\\MainForm.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAewBYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:53:50.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:53:50.373Z"
             },
             {
               "$type": "Document",
